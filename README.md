@@ -1,25 +1,25 @@
 ### 👋 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/your-profile)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ----
 
 # Full-stack Software Engineer
-> **3+ years of experience** in delivering high-impact web solutions. I specialize in architecting scalable backends and crafting high-performance, reactive frontends.
+> **3+ years of experience** specializing in architecting scalable backends and crafting high-performance, reactive frontends.
 
 #### 🖥️ Frontend | Client-side Engineering
-**Frontend** is the bridge between human intent and machine logic. I focus on building high-fidelity, responsive, and state-driven interfaces that ensure a seamless user experience (UX).
+**Frontend** is the bridge between human intent and machine logic. I focus on building high-fidelity, responsive, and state-driven interfaces for a seamless user experience.
 * **Tech Stack:** Specialized in **Vue 3** and **ReactJS**.
 * **Expertise:** Proficient in **Tailwind CSS**, **SCSS**, and **Bootstrap** for modular, maintainable UI systems.
 
 #### ⚙️ Backend | System Architecture & Logic
-**Backend** is the engine room. It is responsible for business logic, data security, and system performance. I design robust server-side architectures that handle complex workflows with stability.
+**Backend** is the engine room. I design robust server-side architectures that handle complex business logic and secure data transactions with stability.
 * **Tech Stack:** Core expertise in **PHP** and **Laravel**.
-* **Integration:** Building standardized, production-ready APIs documented via **Swagger** and managing enterprise-grade **WordPress** ecosystems.
+* **Ecosystems:** Professional experience with **WordPress** and building standardized APIs documented via **Swagger**.
 
 #### 📂 Database | Data Management & Persistence
-**Database** is the foundation of truth. I focus on data integrity, query optimization, and ensuring that information is stored securely and retrieved efficiently.
+**Database** is the foundation of truth. I focus on data integrity, query optimization, and ensuring information is stored securely and retrieved efficiently.
 * **Systems:** Experienced in relational databases like **MySQL** and **PostgreSQL**.
 * **Advanced:** Leveraging **Firebase** for real-time synchronization and implementing **CI/CD** pipelines for automated, reliable deployments.
 
@@ -40,6 +40,6 @@
 ---
 
 ### 🚀 Core Strengths
-* **Full-Lifecycle Development:** Handling everything from database schema design to pixel-perfect UI implementation.
-* **Clean Code & DX:** Committed to writing maintainable code and providing excellent Developer Experience through clear documentation.
-* **Performance Optimization:** Tuning Laravel queries and frontend rendering to minimize latency.
+* **End-to-End Development:** Handling everything from database schema design to the final UI polish.
+* **Clean Code & DX:** Committed to writing maintainable code and providing excellent Developer Experience.
+* **Continuous Optimization:** Tuning queries and frontend rendering to ensure high-speed performance.
