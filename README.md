@@ -1,71 +1,45 @@
-### 👋 Nice ways to reach me
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog_&_Portpolio-EA4B67?style=flat-square&logoColor=white)](https://blog.cowkite.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cowkite/)
-[![X @cowkite](https://img.shields.io/badge/@cowkite-000000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/cowkite)
-[![Email](https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:iscowkite@gmail.com)
-
-----
-Hi! I’m a full-stack developer who turns ambiguity into shipped software — APIs, web apps, and sometimes mobile.  
-I care about clean interface contracts, pragmatic DX, and systems that scale without drama. 🚀
-
-#### 🖥️ On the web side,
-I build frontends with React + TypeScript and mostly use Node.js on the backend. I design BFF layers and GraphQL APIs, and I’m comfortable with Spring.
-
-#### 📱 On the mobile side,
-I spent 7 years on Android (Java/Kotlin) and the last 2 years of that on iOS (Swift). I’ve shipped with Flutter and React Native, but prefer native when it matters.
-
-#### ☁️ On the infra & data side, 
-I work with Kubernetes, Docker, and Elasticsearch; use both MongoDB and SQL; and have experience with Kafka. In ops/observability and platform, I also use Nginx, Grafana, and AWS; Redis and Elasticsearch often back real-time and search workloads.
-
-#### 💚 Off the clock,
-I’m into diving (free & scuba), swimming, band music and festivals — plus baseball, books, travel — and volunteer coding whenever I can. I like building things that make life feel a little more beautiful. ✨
+### 👋 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ----
 
-### 💪 Skills
+# Full-stack Software Engineer
+> **3+ years of experience** in delivering high-impact web solutions. I specialize in architecting scalable backends and crafting high-performance, reactive frontends.
 
-#### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+#### 🖥️ Frontend | Client-side Engineering
+**Frontend** is the bridge between human intent and machine logic. I focus on building high-fidelity, responsive, and state-driven interfaces that ensure a seamless user experience (UX).
+* **Tech Stack:** Specialized in **Vue 3** and **ReactJS**.
+* **Expertise:** Proficient in **Tailwind CSS**, **SCSS**, and **Bootstrap** for modular, maintainable UI systems.
 
-#### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+#### ⚙️ Backend | System Architecture & Logic
+**Backend** is the engine room. It is responsible for business logic, data security, and system performance. I design robust server-side architectures that handle complex workflows with stability.
+* **Tech Stack:** Core expertise in **PHP** and **Laravel**.
+* **Integration:** Building standardized, production-ready APIs documented via **Swagger** and managing enterprise-grade **WordPress** ecosystems.
 
-#### Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
+#### 📂 Database | Data Management & Persistence
+**Database** is the foundation of truth. I focus on data integrity, query optimization, and ensuring that information is stored securely and retrieved efficiently.
+* **Systems:** Experienced in relational databases like **MySQL** and **PostgreSQL**.
+* **Advanced:** Leveraging **Firebase** for real-time synchronization and implementing **CI/CD** pipelines for automated, reliable deployments.
 
-#### Cloud & Platform
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+#### 💚 Beyond the Code
+* **Football Enthusiast ⚽:** A firm believer in the power of teamwork, strategy, and endurance—both on the pitch and in the IDE.
+* **Linguistic Growth 🇯🇵 🇺🇸:** Currently mastering **English** and **Japanese** to bridge the gap between technology and global collaboration.
 
-#### Data & Messaging
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+----
 
-#### Observability
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=232F3E)
+### 💪 Technical Proficiency
 
-#### CI/CD & Release
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) |
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+| **Data & DevOps** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 
-#### Focus & Strengths
-- API & BFF design (GraphQL), schema modeling, and clean interface contracts  
-- Performance-minded React UIs; pragmatic DX that keeps teams fast  
-- Production-ready deployments on Kubernetes with Docker
+---
+
+### 🚀 Core Strengths
+* **Full-Lifecycle Development:** Handling everything from database schema design to pixel-perfect UI implementation.
+* **Clean Code & DX:** Committed to writing maintainable code and providing excellent Developer Experience through clear documentation.
+* **Performance Optimization:** Tuning Laravel queries and frontend rendering to minimize latency.
