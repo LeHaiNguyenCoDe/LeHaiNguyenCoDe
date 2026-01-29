@@ -1,46 +1,71 @@
- ![Hits](https://img.shields.io/github/followers/harimkang?label=Follow)
+### 👋 Nice ways to reach me
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog_&_Portpolio-EA4B67?style=flat-square&logoColor=white)](https://blog.cowkite.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cowkite/)
+[![X @cowkite](https://img.shields.io/badge/@cowkite-000000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/cowkite)
+[![Email](https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:iscowkite@gmail.com)
 
-:wave: Hi all, I'm Harim, AI R&D Engineer
+----
+Hi! I’m a full-stack developer who turns ambiguity into shipped software — APIs, web apps, and sometimes mobile.  
+I care about clean interface contracts, pragmatic DX, and systems that scale without drama. 🚀
 
-### :bulb: Current Interests
-- Computer Vision, Semi-SL, Multi-Modal, Generative Model, Agent
-- A new application using an existing model or task
-- DevOps/MLOps
-- Various ideas (Multiple projects that benefit the common good)
+#### 🖥️ On the web side,
+I build frontends with React + TypeScript and mostly use Node.js on the backend. I design BFF layers and GraphQL APIs, and I’m comfortable with Spring.
 
-### ✨Recent Projects
-- TripFlow (WIP, 2025): Travel itinerary management service (with agents that plan trips based on personalized information)
-   - Landing Page: [https://tripflow-ai-voyage.vercel.app/](https://tripflow-ai-voyage.vercel.app/)
-   - [Model Context Protocol (MCP) server that provides tools for accessing the Korea Tourism API](https://github.com/harimkang/mcp-korea-tourism-api)
-   - [Model Context Protocol (MCP) server that provides tools for accessing Map API](https://github.com/harimkang/mcp-korea-maps)
+#### 📱 On the mobile side,
+I spent 7 years on Android (Java/Kotlin) and the last 2 years of that on iOS (Swift). I’ve shipped with Flutter and React Native, but prefer native when it matters.
 
-### :purple_heart: About Me
+#### ☁️ On the infra & data side, 
+I work with Kubernetes, Docker, and Elasticsearch; use both MongoDB and SQL; and have experience with Kafka. In ops/observability and platform, I also use Nginx, Grafana, and AWS; Redis and Elasticsearch often back real-time and search workloads.
 
-AI R&D Engineer at ![Intel](https://img.shields.io/badge/-Intel-0071C5?style=plastic&logo=intel&logoColor=white) (2021.6~2024.11)
-- [Research] Semi-SL for multi-class classification
-- [Research] Class-Incremental Learning for Detection & Instance Segmentation
-- [Dev] Developer of [Model-Preparation-Algorithm](https://github.com/openvinotoolkit/model_preparation_algorithm)
-- [Dev] Developer of [OpenVINO Training Extension (OTX)](https://github.com/open-edge-platform/training_extensions)
-    - Responsible for the Semi-SL Classification algorithm - [Link](https://open-edge-platform.github.io/training_extensions/2.2.0/guide/explanation/algorithms/classification/multi_class_classification.html#semi-supervised-learning)
-    - OTX v1.0 CLI (Overall Design & Implementation)
-    - OTX v2.0 API/CLI Design
-    - OTX v2.0 development group leader
-- [Dev] Contribution
-    - [Geti](https://geti.intel.com/) - [Github](https://github.com/open-edge-platform/geti)
-    - [Geti-sdk](https://github.com/open-edge-platform/geti-sdk)
-    - [Anomalib]((https://github.com/open-edge-platform/anomalib)
+#### 💚 Off the clock,
+I’m into diving (free & scuba), swimming, band music and festivals — plus baseball, books, travel — and volunteer coding whenever I can. I like building things that make life feel a little more beautiful. ✨
 
-SW Engineer (Contract workers dispatched to Intel) (2020.5~2021.5)
-- [Dev] Microservices (API) Integration & E2E test validation of Intel Product: QA Validation
-- [Dev] Contributor of [Datumaro](https://github.com/openvinotoolkit/datumaro)
-    - Implement a sampler that performs sampling to consider the balance of the class
+----
 
-![Contribution stats](https://github-contributor-stats.vercel.app/api?username=harimkang&theme=dracula)
+### 💪 Skills
 
-### :cyclone: Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harimkang&layout=compact&exclude_repo=Scikit-Learn-Example&hide_title=True&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-[![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00?logo=tensorflow&logoColor=white)](https://www.credential.net/28bacf68-2290-412e-a7cb-8b12ce4204de)
+#### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:harimkang4422@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/harim.kang)](https://www.facebook.com/harim.kang) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harim-kang-1bb974179)](https://www.linkedin.com/in/harim-kang-1bb974179) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://davinci-ai.tistory.com/)
+#### Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+#### Cloud & Platform
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+#### Data & Messaging
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+#### Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=232F3E)
+
+#### CI/CD & Release
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+
+#### Focus & Strengths
+- API & BFF design (GraphQL), schema modeling, and clean interface contracts  
+- Performance-minded React UIs; pragmatic DX that keeps teams fast  
+- Production-ready deployments on Kubernetes with Docker
